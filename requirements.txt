@@ -1,3 +1,4 @@
+# Use newer versions that are compatible with Python 3.12
 flask==2.3.3
 flask-cors==4.0.0
 opencv-python-headless==4.8.1.78
